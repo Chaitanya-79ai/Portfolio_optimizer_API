@@ -388,4 +388,5 @@ python -m py_compile app/*.py
 
 - The optimizer is long-only and does not allow short selling.
 - If constraints are infeasible, the API returns a validation error instead of producing invalid weights.
-- `GLD` has no dividend yield in the expected workbook, so its dividend yield is treated as `0`.
+
+
