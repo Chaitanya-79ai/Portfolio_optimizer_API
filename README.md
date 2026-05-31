@@ -1,4 +1,4 @@
-# Finominal Portfolio Optimizer API
+# Portfolio Optimizer API
 
 A FastAPI backend for portfolio optimization using historical fund returns, dividend yield constraints, and factor exposure analysis.
 
